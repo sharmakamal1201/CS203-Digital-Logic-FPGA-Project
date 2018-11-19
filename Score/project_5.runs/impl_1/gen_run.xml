@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1542652854">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-DRC" Name="scores_display.drc"/>
+  <File Type="BG-BGN" Name="scores_display.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="scores_display.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="scores_display.ltx"/>
+  <File Type="BITSTR-MMI" Name="scores_display.mmi"/>
+  <File Type="BITSTR-BMM" Name="scores_display_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="scores_display.nky"/>
+  <File Type="BITSTR-RBT" Name="scores_display.rbt"/>
+  <File Type="BITSTR-MSK" Name="scores_display.msk"/>
+  <File Type="BG-BIN" Name="scores_display.bin"/>
+  <File Type="BG-BIT" Name="scores_display.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="scores_display_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="scores_display_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="scores_display_bus_skew_postroute_physopted.rpt"/>
+  <File Type="RDI-RDI" Name="scores_display.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="scores_display_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="scores_display_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="scores_display_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="scores_display_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="scores_display_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW" Name="scores_display_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="scores_display_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="scores_display_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="scores_display_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="scores_display_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="scores_display_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="scores_display_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="scores_display_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="scores_display_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="scores_display_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="scores_display_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="scores_display_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="scores_display_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="scores_display_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="scores_display_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="scores_display_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="scores_display_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="scores_display_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="scores_display_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="scores_display_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="scores_display_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="scores_display_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="scores_display_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="scores_display_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="scores_display_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="scores_display_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="scores_display_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="scores_display_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="scores_display_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="scores_display_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="scores_display_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="scores_display_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="scores_display_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="scores_display_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="scores_display_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="scores_display_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="scores_display_pwropt.dcp"/>
+  <File Type="OPT-TIMING" Name="scores_display_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="scores_display.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="scores_display_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="scores_display_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="scores_display_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="scores_display_timing_summary_init.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="scores_display_bus_skew_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="scores_display_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="scores_display_bus_skew_routed.pb"/>
+  <File Type="PA-TCL" Name="scores_display.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/seven_seg.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/scores_display.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="scores_display"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/x.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

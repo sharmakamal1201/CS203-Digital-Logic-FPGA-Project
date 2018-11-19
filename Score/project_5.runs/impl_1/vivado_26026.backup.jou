@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Nov 20 00:11:27 2018
+# Process ID: 26026
+# Current directory: /home/2017csb1099/project_5/project_5.runs/impl_1
+# Command line: vivado -log scores_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source scores_display.tcl -notrace
+# Log file: /home/2017csb1099/project_5/project_5.runs/impl_1/scores_display.vdi
+# Journal file: /home/2017csb1099/project_5/project_5.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source scores_display.tcl -notrace
